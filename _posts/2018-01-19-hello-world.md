@@ -2,8 +2,8 @@
 layout:     post
 title:      Hello World
 date:       2018-01-19 11:21:29
-summary:    Este é um post inicial que servirá como mote para tantos outros posts.
-categories: anuncio 
+summary:    Olá, mundo! Sabendo que nada sei apoio-me nos ombros de gigantes para que possa alcançar novos horizontes...
+categories: anuncio  
 ---
 
 Olá, mundo! Sabendo que nada sei apoio-me nos ombros de gigantes para que possa alcançar novos horizontes. Os gigantes neste caso são os inúmeros experts, bloggers que têm compartilhado os seus conhecimentos e que muito tem ajudado pessoas como eu, mas, agora é hora de retribuir escrevendo também.
